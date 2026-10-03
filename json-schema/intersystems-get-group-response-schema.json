@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/intersystems/main/json-schema/intersystems-get-group-response-schema.json",
+  "title": "GetGroupResponse",
+  "x-generated": "2026-10-03",
+  "x-method": "derived",
+  "x-generator": "derive-json-schema.py",
+  "x-source": "openapi/_ae-authored/intersystems-openapi-generated.yml#/components/schemas/GetGroupResponse",
+  "type": "object",
+  "properties": {
+    "200": {
+      "type": "string",
+      "description": "Success – for GET /Group (search) the response is a FHIR Bundle of type searchset containing matching Group resources; for GET /Group/<id> (read) the response is the Group resource directly."
+    },
+    "400": {
+      "type": "string",
+      "description": "Bad Request – unsupported search parameter."
+    },
+    "401": {
+      "type": "string",
+      "description": "Unauthorized – no valid token found."
+    },
+    "403": {
+      "type": "string",
+      "description": "Forbidden – requester lacks necessary permissions."
+    },
+    "404": {
+      "type": "string",
+      "description": "Not Found – the specified Group was not found."
+    },
+    "406": {
+      "type": "string",
+      "description": "Not Acceptable – Accept header does not include application/fhir+json."
+    },
+    "500": {
+      "type": "string",
+      "description": "Internal Server Error – payer service error."
+    },
+    "504": {
+      "type": "string",
+      "description": "Gateway Timeout – internal request timed out."
+    }
+  }
+}

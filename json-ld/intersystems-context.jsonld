@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://intersystems.com/schema#",
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "intersystems": "https://intersystems.com/schema#",
+    "GetGroupResponse": "intersystems:GetGroupResponse"
+  },
+  "@type": "schema:Dataset",
+  "schema:name": "InterSystems API JSON-LD context",
+  "schema:description": "A JSON-LD @context for the objects InterSystems's own API contract declares: one class per component schema, one property per declared field, typed from the contract. Derived by script (derive-json-ld.py, 2026-10-03) from openapi/_ae-authored/intersystems-openapi-generated.yml.",
+  "dcterms:created": "2026-10-03",
+  "dcterms:source": [
+    "openapi/_ae-authored/intersystems-openapi-generated.yml"
+  ]
+}

@@ -1,0 +1,68 @@
+# InterSystems
+
+> InterSystems provides data platforms and healthcare information
+> technology for mission-critical applications. Its principal offerings
+> support data management, interoperability, analytics, artificial
+> intelligence, healthcare, financial services, and supply chain operations.
+
+InterSystems IRIS is the company's general-purpose data platform.
+InterSystems IRIS for Health adds healthcare-specific capabilities and
+support for healthcare information standards. For version-specific
+technical information, use the official InterSystems documentation.
+
+## Start Here
+
+- [InterSystems overview](https://www.intersystems.com/): Company, technology, and market overview.
+- [Products](https://www.intersystems.com/products/): Current product portfolio and product categories.
+- [Industries](https://www.intersystems.com/industries/): Healthcare, financial services, supply chain, and other industries.
+- [Documentation](https://docs.intersystems.com/): Authoritative product and technical documentation.
+- [Developer Hub](https://developer.intersystems.com/): Tutorials, developer resources, and ways to try InterSystems technology.
+
+## Data Platforms and AI
+
+- [InterSystems IRIS](https://www.intersystems.com/products/intersystems-iris/): Cloud-first data platform for high-performance, AI-enabled applications.
+- [Generative AI with InterSystems IRIS](https://www.intersystems.com/products/intersystems-iris/generative-ai/): Semantic search, generative AI, and related capabilities.
+- [InterSystems IRIS Cloud Services](https://www.intersystems.com/products/intersystems-iris-cloud-services/): Fully managed cloud services based on InterSystems technology.
+- [InterSystems Data Studio](https://www.intersystems.com/products/intersystems-data-studio/): Managed, low-code access to distributed enterprise data.
+
+## Healthcare Platforms and Interoperability
+
+- [InterSystems IRIS for Health](https://www.intersystems.com/products/intersystems-iris-for-health/): Healthcare data platform supporting major healthcare standards.
+- [InterSystems FHIR Services](https://www.intersystems.com/intersystems-fhir-services/): Managed infrastructure for accessing and using FHIR data.
+- [InterSystems Health Connect](https://www.intersystems.com/products/health-connect/): High-performance healthcare integration engine.
+- [HealthShare Unified Care Record](https://www.intersystems.com/products/healthshare/unified-care-record/): Aggregated, normalized, and deduplicated health record.
+- [InterSystems EMPI](https://www.intersystems.com/products/intersystems-empi/): Enterprise identity-resolution and person-matching solution.
+- [InterSystems OMOP](https://www.intersystems.com/resources/intersystems-omop/): FHIR-to-OMOP data pipeline and repository solution.
+- [InterSystems Payer Services](https://www.intersystems.com/products/healthshare/payer-services/): Healthcare interoperability services for U.S. payer requirements.
+
+## Electronic Health Records
+
+- [InterSystems IntelliCare](https://www.intersystems.com/products/intellicare/): AI-enabled electronic health record for clinicians, administrators, and patients.
+- [TrakCare](https://www.intersystems.com/products/trakcare/): Unified healthcare information system and electronic medical record.
+- [TrakCare Lab Enterprise](https://www.intersystems.com/products/trakcare/lab-enterprise/): Enterprise laboratory information and business management system.
+
+## Supply Chain
+
+- [InterSystems Supply Chain Orchestrator](https://www.intersystems.com/products/supply-chain-orchestrator/): AI-enabled supply chain decision-intelligence platform.
+
+## Developer and Technical Resources
+
+- [Documentation](https://docs.intersystems.com/): Product documentation, APIs, configuration, and release-specific information.
+- [Developer Hub](https://developer.intersystems.com/): Tutorials and developer onboarding.
+- [Developer Community](https://community.intersystems.com/): Community articles, questions, and examples.
+- [Open Exchange](https://openexchange.intersystems.com/): Applications and packages created for InterSystems technologies.
+- [Learning Services](https://learning.intersystems.com/): Training and self-paced learning.
+
+## Trust, Support, and Company Information
+
+- [About InterSystems](https://www.intersystems.com/about-us/): Company background and corporate information.
+- [Product Support](https://www.intersystems.com/support/): Support resources and service information.
+- [AI Ethics](https://www.intersystems.com/about-us/ai-ethics/): Principles governing responsible AI.
+- [Cybersecurity](https://www.intersystems.com/about-us/cybersecurity/): Security practices and related information.
+
+## Optional
+
+- [Resource Library](https://www.intersystems.com/resources/): Reports, guides, videos, and other supporting material.
+- [Customer Success Stories](https://www.intersystems.com/success-stories/): Examples of customer implementations.
+- [InterSystems Blogs](https://www.intersystems.com/pulse-blog/): Healthcare industry experts talk about pressing challenges, issues, and trends at the intersection of healthcare and technology.
+- [InterSystems Blogs](https://www.intersystems.com/data-excellence-blog/): Commentary and thought leadership on various business, data, and technology-related issues for the line of business.
