@@ -61,19 +61,17 @@ apis:
   humanURL: https://developer.intersystems.com/
   baseURL: null
   aid: intersystems:intersystems-developer-hub
-- aid: intersystems:intersystems-api
-  name: InterSystems API
-  description: 'InterSystems API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-10-03);
-
-    not the provider''s own document.'
-  humanURL: https://docs.intersystems.com/payer/csp/docbook/DocBook.UI.Page.cls?KEY=APayerPDex_group
+- aid: intersystems:intersystems-group-api
+  name: InterSystems Group API
+  description: The Group API from InterSystems — 1 operation(s) for group.
+  humanURL: https://developer.intersystems.com/
+  tags:
+  - Group
   properties:
   - type: OpenAPI
-    url: openapi/_ae-authored/intersystems-openapi-generated.yml
-    x-provenance: generated
+    url: openapi/intersystems-group-api-openapi.yml
   - type: JSONSchema
     url: json-schema/intersystems-get-group-response-schema.json
-
 x-coverage:
   state: unreadable
   reason: no-machine-readable-spec
