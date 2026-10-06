@@ -18,7 +18,7 @@ specificationVersion: '0.20'
 
 created: '2026-10-03'
 
-modified: '2026-10-03'
+modified: '2026-10-06'
 
 tags:
 - Company
@@ -30,6 +30,10 @@ maintainers:
   email: info@apis.io
 
 common:
+- url: https://www.intersystems.com/news/
+  type: Blog
+- url: https://www.intersystems.com/news/index.rss
+  type: BlogRSS
 - type: Spectral
   url: rules/intersystems-rules.yml
 - type: JSONLD
