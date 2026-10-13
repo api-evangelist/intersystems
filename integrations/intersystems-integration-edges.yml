@@ -1,0 +1,43 @@
+generated: '2026-10-13'
+method: searched
+checked:
+- https://aws.amazon.com/marketplace/
+- https://azuremarketplace.microsoft.com/
+marketplace_apps: []
+edges:
+- partner_name: AWS Marketplace
+  partner: amazon-web-services
+  partner_match: aggregator
+  type: marketplace
+  marketplace: aws-marketplace
+  channel: distribution
+  relationship: platform-app
+  direction: provider-built
+  evidence: https://aws.amazon.com/marketplace/seller-profile?id=6e5272fb-ecd1-4111-8691-e5e24229826f
+  listing_count: 4
+  apps:
+  - InterSystems IRIS Cloud SQL
+  - InterSystems FHIR Server
+  - InterSystems OMOP
+  - InterSystems IRIS® Cloud Document
+  seller_name: InterSystems
+  detected_by: sweep-cloud-marketplaces.py
+  detected: '2026-10-13'
+- partner_name: Microsoft Azure Marketplace
+  partner: microsoft-azure
+  partner_match: aggregator
+  type: marketplace
+  marketplace: azure-marketplace
+  channel: distribution
+  relationship: platform-app
+  direction: provider-built
+  evidence: https://azuremarketplace.microsoft.com/en-us/marketplace/apps?search=InterSystems%20Corporation
+  listing_count: 4
+  apps:
+  - InterSystems IRIS Data Platform BYOL
+  - InterSystems IRIS Community Edition
+  - InterSystems IRIS for Health Community Edition
+  - InterSystems IRIS for Health BYOL
+  seller_name: InterSystems Corporation
+  detected_by: sweep-cloud-marketplaces.py
+  detected: '2026-10-13'
